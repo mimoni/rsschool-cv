@@ -9,7 +9,7 @@
 
 ## About me
 
-Some information about me here
+Some information about me here.
 
 ## Skills
 
